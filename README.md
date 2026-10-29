@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Mamatha Jetta 👋
 
-<!--
-**mamathajetta9-svg/mamathajetta9-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full Stack Python Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in building web applications using Python, Django, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech Graduate — 2026
+- 💻 Interested in Full Stack Development
+- 🌱 Currently strengthening my Python, Django, SQL, and React skills
+- 🚀 Projects: ShopEasy E-commerce Website, Django Product Management System, and Portfolio Website
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, Java (Basics), C
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python, Django
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+**ShopEasy E-commerce Website**
+- Developed using Python, Django, MySQL, HTML, CSS, and JavaScript.
+- Features include authentication, product browsing, cart management, and order processing.
+
+**Django Product Management System**
+- A product management application built using Django, Python, HTML, and CSS.
+
+**Portfolio Website**
+- A personal portfolio website built using HTML and CSS.
+
+### 🎯 Career Goal
+
+Seeking an entry-level opportunity where I can apply my development skills, learn from experienced developers, and contribute to real-world projects.
+
+### 🤝 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mamthajetta)
+- GitHub: [My GitHub Profile](https://github.com/mamathajetta9-svg)
